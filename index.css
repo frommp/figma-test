@@ -18,6 +18,10 @@
     color: #4F56F1;
 }
 
+section {
+    display: inline-block;
+}
+
 .main-title {
     max-width: 495px;
     width: 100%;
@@ -52,9 +56,6 @@
     color: #9A9A9A;
 }
 
-section {
-    display: inline-block;
-}
 
 .main-btn {
     width: 154px;
